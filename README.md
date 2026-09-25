@@ -222,7 +222,7 @@ Key references include the PulseSensor.com getting-started guide, the Aosong DHT
 
 **Yashwanth G S**
 Master of Computer Applications, Dr. Ambedkar Institute of Technology, Bengaluru
-GitHub: [@Yashwanth18102004](https://github.com/Yashwanth18102004)
+GitHub: [@Yashwanth181024](https://github.com/Yashwanth181024)
 
 ## License
 
